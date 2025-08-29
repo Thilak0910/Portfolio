@@ -24,15 +24,6 @@
 ✔️ Education\
 ✔️ Contact me
 
-# Features
-
-- Modern and clean UI design
-- Fully responsive layout
-- Multiple theme options
-- Dynamic GitHub project integration
-- Contact form with EmailJS integration
-- Easy customization
-
 # Technologies Used 🛠️
 
 - [React](https://reactjs.org/)
