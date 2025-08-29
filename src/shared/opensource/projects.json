@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Blind Aid Using IoT",
+      "createdAt": "2018-10-13",
+      "description": "This project is intended to help the people who are Visually challenged. I have won 1st prize for this project in the Project Expo conducted by Easwari Engineering College.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Human and Machine Interaction",
+      "createdAt": "2023-02-13",
+      "description": "The project enables users to perform essential computer operations such as selecting, opening, and navigating applications without physical contact. This makes digital systems more inclusive and provides an accessible way for visually challenged individuals to interact with technology.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Vision For Blind using Deep Learning",
+      "createdAt": "2024-03-06",
+      "description": "A Raspberry Pi–based wearable cap that uses a trained deep learning model to detect objects, identify people, and estimate distances, providing real-time navigation assistance for visually impaired individuals.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
