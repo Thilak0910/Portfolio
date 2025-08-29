@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "Junior Software Engineer with 1 year of full-stack development experience in building web applications for US tax forms. Skilled in Vue.js, React.js, TypeScript, .NET, Node.js, and Fastify for APIs, with strong knowledge of SSR/CSR and metadata-driven form engines. Experienced in databases (SQL Server, MySQL, PostgreSQL), Docker, CI/CD (Jenkins, Argo CD), and test automation (Vitest, Playwright). Awarded Dazzling Debutante for rapid learning and impact. Familiar with agile, SSO, and cloud tools such as AWS Secrets Manager.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/thilakd/masterPortfolio",
+    "https://drive.google.com/file/d/1HCGTHPD3SBZPOuBydUXWyL2h1h0Oo2DE/view?usp=drive_link",
+  portfolio_repository: "https://github.com/Thilak0910",
   githubProfile: "https://github.com/Thilak0910",
 };
 
